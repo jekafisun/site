@@ -1,5 +1,4 @@
 body{
-	background-color: red;
 	margin: 0 auto;
 	width: 978px;
 }
@@ -8,4 +7,10 @@ h1{
 }
 body{
 	font-size: 20px;
+
+	background-color: greenyellow;
+}
+h1{
+	font-size: 80px;
+
 }
